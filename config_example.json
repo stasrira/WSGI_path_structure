@@ -1,0 +1,4 @@
+{
+  "HINT": "This file should be saved as .config.json in the root directory; provide the secret word for the 'SECRET_WORD' key below",
+  "SECRET_WORD":"Specify here the secret word to be used"
+}
